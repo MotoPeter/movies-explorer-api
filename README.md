@@ -1,7 +1,7 @@
 ## **Дипломная работа Яндекс Практикум специальность Веб-разработчик**
 ## **Beckend**
 
-Репозиторий для Beckend проекта [**Mesto**](https://github.com/MotoPeter/movies-explorer-api.git)
+Репозиторий для Beckend проекта [**movies-explorer**](https://github.com/MotoPeter/movies-explorer-api.git)
 
 ## **Описание**
 
@@ -27,7 +27,7 @@
 
 ## **Доработка**
 
-- [**Посмотреть проект**](https://github.com/MotoPeter/movies-explorer-api.git))
+- [**Посмотреть проект**](https://github.com/MotoPeter/movies-explorer-api.git)
   
 
 Адрес репозитория: https://github.com/MotoPeter/movies-explorer-api.git)

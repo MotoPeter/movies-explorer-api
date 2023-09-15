@@ -4,8 +4,9 @@ const NotFoundError = require('../errors/notfound-error');
 const Movie = require('../models/movie');
 const { httpConstants } = require('../utils/constants');
 
-const getMovies = (_req, res, next) => {
-  Movie.find({})
+const getMovies = (req, res, next) => {
+  const owner = req.user._id;
+  Movie.find({ owner })
     .then((movies) => res.send(movies))
     .catch((next));
 };

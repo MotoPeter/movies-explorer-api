@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable import/order */
 /* eslint-disable import/no-extraneous-dependencies */
 const bodyParser = require('body-parser');
